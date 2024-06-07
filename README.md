@@ -22,6 +22,7 @@ The designs are created to the following widths:
 The colors(in :root selector) and Typography(font-family, font-size, font-weight) are included in the style.css file
 
     ### Screenshot
+<img width="677" alt="task-7" src="https://github.com/Uzmakh/coding-bootcamp-testimonials-slider-master/assets/91914613/949d4ca6-a862-4cbc-9dbb-b50873b30e07">
 
 
 

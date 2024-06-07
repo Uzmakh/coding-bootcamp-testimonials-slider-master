@@ -20,16 +20,16 @@ html {
 .container {
   min-height: 100vh;
   width: 100%;
-  padding: 30px;
+  /* padding: 30px; */
   background-image: url(./images/pattern-curve.svg);
   background-repeat: no-repeat;
+  background-size: auto;
   background-position: left bottom;
-  background-size: cover 28%;
 }
 
 .slider {
   display: block;
-  height: 100%;
+  /* height: 100%; */
   width: 100%;
   max-width: 850px;
   margin: 0 auto;

@@ -22,6 +22,7 @@ The designs are created to the following widths:
 The colors(in :root selector) and Typography(font-family, font-size, font-weight) are included in the style.css file
 
     ### Screenshot
+<img width="677" alt="task-7" src="https://github.com/Uzmakh/coding-bootcamp-testimonials-slider-master/assets/91914613/949d4ca6-a862-4cbc-9dbb-b50873b30e07">
 
 
 
@@ -29,7 +30,7 @@ The colors(in :root selector) and Typography(font-family, font-size, font-weight
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:https://www.frontendmentor.io/solutions/simple-testimonial-slider-in-html-css-and-js-FYj__XQ-Cy
 - Live Site URL:(https://testmonial-slider.netlify.app/)
 ## My process
 
@@ -54,8 +55,8 @@ The colors(in :root selector) and Typography(font-family, font-size, font-weight
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - https://www.frontendmentor.io/profile/Uzmakh
+- Twitter -
 
 
 

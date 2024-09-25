@@ -135,6 +135,16 @@ html {
 .slide-2 {
   display: none;
 }
+/* footer */
+ .attribution {
+  margin: 20px;
+   font-size: 11px;
+   text-align: center;
+ }
+
+ .attribution a {
+   color: hsl(228, 45%, 44%);
+ }
 @media (min-width: 768px) {
   .container {
     background-position: 0 bottom;
